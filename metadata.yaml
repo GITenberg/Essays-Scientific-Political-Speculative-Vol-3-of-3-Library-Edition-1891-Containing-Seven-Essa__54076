@@ -1,0 +1,35 @@
+_repo: Essays-Scientific-Political-Speculative-Vol-3-of-3-Library-Edition-1891-Containing-Seven-Essa__54076
+_version: 0.0.1
+alternative_title: 'Essays: Scientific, Political, and Speculative; Vol. 3 of 3'
+creator:
+  author:
+    agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+description: ''
+gutenberg_issued: '2017-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcsh 'Political science'
+- !lcc 'B'
+- !lcsh 'Science'
+- GITenberg
+tableOfContents: 'Manners and fashion -- Railway morals and railway policy -- The
+  morals of trade -- Prison-ethics -- The ethics of Kant -- Absolute political ethics
+  -- Over-legislation -- Representative government: what is it good for? -- State-tamperings
+  with money and banks -- Parliamentary reform: the dangers and the safeguards --
+  "The collective wisdomw" -- Political fetichism -- Specialised administration --
+  From freedom to bondage -- The Americans.'
+title: "Essays: Scientific, Political, & Speculative; Vol. 3 of 3\r\nLibrary Edition\
+  \ (1891), Containing Seven Essays not before Republished, and Various other Additions."
+url: http://www.gutenberg.org/ebooks/54076
